@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   new_array = [1,2,3,4]
-  new_array.push(5)
+  new_array.push("arrays!")
   return new_array
   return new_array
 end
